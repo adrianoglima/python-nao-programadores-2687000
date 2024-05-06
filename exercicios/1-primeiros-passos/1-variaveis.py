@@ -8,7 +8,7 @@ nome = 'Adriano'
 sobrenome = "Lima"
 # Declare variáveis de cada tipo numérico
 numero = 23
-valor_decimal = 11,75
+valor_decimal = 11.75
 
 # Declare uma variável do tipo booleano
 verdadeiro = True
