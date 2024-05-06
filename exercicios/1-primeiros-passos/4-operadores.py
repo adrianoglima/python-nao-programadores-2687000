@@ -13,6 +13,9 @@ print(f"O ano de nascimento da 'Gerlaine' é maior que o ano de formatura? {maio
 print(f"O ano de nascimento da 'Gerlaine' é menor ou igual que o ano de formatura? {menor}")
 print(f"A 'Gerlaine se formou no mesmo ano que nasceu? {diferenca}")
 # Crie expressões comparativas mais complexas utilizando operadores lógicos and, or e not. Imprima na tela as respostas
+print((ano_formatura < ano_nascimento) and (ano_formatura < ano_nascimento))
+print((ano_formatura >= ano_nascimento) or (ano_nascimento != ano_formatura))
+print(not(ano_nascimento == ano_formatura))
 
 print('Adriano' != 'Lima')
 print(1958 == 2023 and 2==2)
